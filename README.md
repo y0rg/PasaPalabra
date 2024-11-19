@@ -6,8 +6,6 @@ El famoso juego de la televisión, _-¿Serás capaz de comerte el rosco?_
 
 Este proyecto se utiliza en el módulo de Programación del CFGS Desarrollo de Aplicaciones Web o Desarrollo de Aplicaciones Multiplataforma.
 
-Mira **Deployment** para conocer como desplegar el proyecto.
-
 
 ### Estrucura 📋
 
@@ -34,8 +32,8 @@ Para generar el ejecutable desde Eclipse, realice los siguiente pasos
 
 ## Construido con 🛠️
 
-* [Java](http://www.dropwizard.io/1.0.2/docs/) - Lenguaje de programación
-* [Eclipse](https://maven.apache.org/) - Manejador de dependencias
+* [Java](https://docs.oracle.com/en/java/javase/22/) - Lenguaje de programación
+* [Eclipse](https://www.eclipse.org/downloads/) - Entorno de desarrollo
 
 ## Requisitos ⚙️
 
@@ -44,7 +42,7 @@ Al estar desarrollado en JAVA necesitará una máquina virtual de java o JRE par
 
 ## Versionado 📌
 
-Usamos [Git](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/y0rg/pasapalabra).
+Usamos [Git](https://git-scm.com/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/y0rg/pasapalabra).
 
 ## Autores ✒️
 
